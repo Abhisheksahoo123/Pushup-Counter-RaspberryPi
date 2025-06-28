@@ -22,3 +22,7 @@ The official project report is included in the `Pushup_Counter_Report.pdf` file.
 
 ## 📌 Note
 This was a **college-assigned group project** completed under the B.Tech curriculum.
+## 📽 Demo Video
+
+▶️ [Click here to watch the project demo]https://youtu.be/qY_Hz91r1HI?si=wsirb9OsFaVeqdgO
+
